@@ -1,0 +1,28 @@
+radix	1 	1 		1		4			4			4		4		4			4			4		4		3
+
+io	i	i		i		i			i			i		i		i			i			i		i		i
+
+vname	rst	RegWrite	MemtoReg	Mem_data<[15:12]>	Mem_data<[11:8]>	Mem_data<[7:4]>	Mem_data<[3:0]>	Reg_data<[15:12]>	Reg_data<[11:8]>	Reg_data<[7:4]>	Reg_data<[3:0]>	rd_id<[2:0]>
+
+tunit	ns
+
+slope	0.01
+
+vih	1.8	
+vil	0.0
+
+0	1	0	0	0	0	0	0	0	0	0	0	0
+3	0	0	0	0	0	0	0	0	0	0	0	0
+5	0	1	1	f	f	f	f	f	f	f	f	7	
+9	0	0	0	9	8	7	6	5	4	3	2	1
+13	0	0	1	1	2	3	4	5	6	7	8	3
+17	0	1	0	a	b	c	d	e	f	9	3	5
+21	0	0	1	4	5	6	7	8	b	a	d	3
+25	0	1	1	9	7 	f	d	e	6	4	d	5	
+29	0	1	1	8	8	a	b	c	e	7	8	4	
+33	0	0	0	f	d	a	f	c	c	c	a	7
+37	0	0	0	a 	b	c	d	e	f	a	b	6
+41	0	1	1	2	3	5	7	f	2	d	a	5
+45	0	1	0	6	8	a	c	f	d	e	1	1
+49	0	0	0	5	5	5	3	f	d	f	2	2
+	 
