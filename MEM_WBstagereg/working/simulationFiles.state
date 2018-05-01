@@ -1,0 +1,19 @@
+EVcdFile ""
+EVcdInfoFile ""
+VcdFile ""
+VcdInfoFile ""
+VectorFile ("/home/scf-17/jkoli/cds/ee577a_project/mem_wb.vec")
+allDefinitionFiles nil
+allDspfFiles nil
+allIncludedPaths nil
+allPspiceFiles nil
+allSpefFiles nil
+allStimulusFiles nil
+allVectorFiles ((t "/home/scf-17/jkoli/cds/ee577a_project/mem_wb.vec" "off"))
+definitionFiles nil
+dspfFile nil
+hlcheck "off"
+includePath ""
+pspiceFile nil
+spefFile nil
+stimulusFile nil
